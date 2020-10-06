@@ -1,0 +1,89 @@
+body {
+  background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/paris-eiffel-tower-pink-carousel-merry-go-round-with-pink-hearts-nursery-decor-kathy-fornal.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+img {
+  opacity: 0.6;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+h1{
+  color: black;
+  font-family: Fette UNZ Fraktur;
+  font-size:  180px;
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: palevioletred;
+}
+h2{
+  color: black;
+  font-family: MB-GothicDawn;
+  font-size:  150px;
+  font-weight: 300;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: palevioletred;
+  text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-family: jabin-typeface;
+    color:palevioletred;
+    font-size:40px;
+    font-weight: 700;
+}
+
+li{
+  color: palevioletred;
+  font-family: funkies;
+  font-size:  100px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+header img{
+    opacity: 100%;
+}
+
+a{
+  color: black;
+  font-family: MB-GothicDawn;
+  font-size:  100px;
+  font-weight: 300;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: palevioletred;
+  padding: 0px 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: color 0.5s;
+}
+
+a:hover{
+  color: palevioletred;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black; 
+}
+
+a:active{
+  color: snow;
+  text-decoration: none;
+}
+
+
+a:visited {
+  text-decoration: none;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: palevioletred;
+  color: black;
+    
